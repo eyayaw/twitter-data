@@ -1,0 +1,169 @@
+[
+    {
+        "data": [
+            {
+                "id": "1568663182926905350",
+                "public_metrics": {
+                    "retweet_count": 582,
+                    "reply_count": 201,
+                    "like_count": 2894,
+                    "quote_count": 30,
+                    "impression_count": 0
+                },
+                "edit_history_tweet_ids": [
+                    "1568663182926905350"
+                ],
+                "created_at": "2022-09-10T18:10:21.000Z",
+                "text": "2015 ዓም ህዝባችን የናፈቀውን ሰላምና እፎይታ የሚያገኝበት፤\nበጦርነት፣ በመፈናቀልና በኑሮ ውድነት ከደረሰበት መጎሳቆል እና እንግልት የሚያገግምበት፣ እርስ በርስ ከሚያናቁረው ፖለቲካ ተላቆ የፍቅርና የመተሳሰብ አዲስ ዘመን እንዲሆንለት እመኛለሁ",
+                "author_id": "1232716133989482498"
+            },
+            {
+                "id": "1403610645577322496",
+                "public_metrics": {
+                    "retweet_count": 104,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "impression_count": 0
+                },
+                "edit_history_tweet_ids": [
+                    "1403610645577322496"
+                ],
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 15,
+                            "username": "_HornAfrica",
+                            "id": "1297951875711610880"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 17,
+                            "end": 53,
+                            "probability": 0.8322,
+                            "type": "Other",
+                            "normalized_text": "The Comprehensive Framework Agreement"
+                        }
+                    ]
+                },
+                "created_at": "2021-06-12T07:10:30.000Z",
+                "text": "RT @_HornAfrica: The Comprehensive Framework Agreement (CFA)  codifies a vision of equitable and reasonable utilization of the Nile waters…",
+                "author_id": "1232716133989482498"
+            },
+            {
+                "entities": {
+                    "hashtags": [
+                        {
+                            "start": 69,
+                            "end": 74,
+                            "tag": "GERD"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 15,
+                            "username": "mfaethiopia",
+                            "id": "1221534859"
+                        },
+                        {
+                            "start": 96,
+                            "end": 108,
+                            "username": "mfaethiopia",
+                            "id": "1221534859"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 70,
+                            "end": 73,
+                            "probability": 0.3472,
+                            "type": "Organization",
+                            "normalized_text": "GERD"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "start": 109,
+                            "end": 132,
+                            "url": "https://t.co/ttUOZzjMhj",
+                            "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                            "display_url": "pic.twitter.com/ttUOZzjMhj",
+                            "media_key": "3_1379540858412924929"
+                        },
+                        {
+                            "start": 109,
+                            "end": 132,
+                            "url": "https://t.co/ttUOZzjMhj",
+                            "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                            "display_url": "pic.twitter.com/ttUOZzjMhj",
+                            "media_key": "3_1379540880982482951"
+                        }
+                    ]
+                },
+                "id": "1379817311683674112",
+                "public_metrics": {
+                    "retweet_count": 255,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "impression_count": 0
+                },
+                "attachments": {
+                    "media_keys": [
+                        "3_1379540858412924929",
+                        "3_1379540880982482951"
+                    ]
+                },
+                "edit_history_tweet_ids": [
+                    "1379817311683674112"
+                ],
+                "created_at": "2021-04-07T15:24:17.000Z",
+                "text": "RT @mfaethiopia: Press Release on the Trilateral Negotiations on the #GERD. 06 April 2021, DRC. @mfaethiopia https://t.co/ttUOZzjMhj",
+                "author_id": "1232716133989482498"
+            },
+            {
+                "id": "1288936386670874631",
+                "public_metrics": {
+                    "retweet_count": 1,
+                    "reply_count": 3,
+                    "like_count": 24,
+                    "quote_count": 0,
+                    "impression_count": 0
+                },
+                "edit_history_tweet_ids": [
+                    "1288936386670874631"
+                ],
+                "created_at": "2020-07-30T20:35:56.000Z",
+                "text": "@Surafel6675 ሁሉም ሰይጣናዊ ድርጊቶች የሚወገዱት በቁርጠኝነት በአንድነት ስንቆም ብቻ ነው።",
+                "author_id": "1232716133989482498"
+            }
+        ],
+        "includes": {
+            "users": [
+                {
+                    "id": "1232716133989482498",
+                    "created_at": "2020-02-26T17:17:09.000Z",
+                    "verified": false,
+                    "public_metrics": {
+                        "followers_count": 156268,
+                        "following_count": 34,
+                        "tweet_count": 5,
+                        "listed_count": 163
+                    },
+                    "username": "GeduAndargachew",
+                    "name": "Gedu Andargachew",
+                    "description": "Former Minister of Foreign Affairs of the Federal Democratic Republic of Ethiopia",
+                    "location": "Addis Ababa,Ethiopia"
+                }
+            ]
+        },
+        "meta": {
+            "newest_id": "1568663182926905350",
+            "oldest_id": "1288936386670874631",
+            "result_count": 4
+        }
+    }
+]
