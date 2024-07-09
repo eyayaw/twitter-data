@@ -1,0 +1,2048 @@
+[
+    {
+        "bookmark_count": 0,
+        "bookmarked": false,
+        "created_at": "Sat Sep 10 18:10:21 +0000 2022",
+        "conversation_id_str": "1568663182926905350",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 2847,
+        "favorited": false,
+        "full_text": "2015 ዓም ህዝባችን የናፈቀውን ሰላምና እፎይታ የሚያገኝበት፤\nበጦርነት፣ በመፈናቀልና በኑሮ ውድነት ከደረሰበት መጎሳቆል እና እንግልት የሚያገግምበት፣ እርስ በርስ ከሚያናቁረው ፖለቲካ ተላቆ የፍቅርና የመተሳሰብ አዲስ ዘመን እንዲሆንለት እመኛለሁ",
+        "is_quote_status": false,
+        "lang": "am",
+        "quote_count": 31,
+        "reply_count": 203,
+        "retweet_count": 571,
+        "retweeted": false,
+        "user_id_str": "1232716133989482498",
+        "id_str": "1568663182926905350",
+        "url": "https://twitter.com/GeduAndargachew/status/1568663182926905350",
+        "views_count": 0,
+        "truncated_full_text": null,
+        "user": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Wed Feb 26 17:17:09 +0000 2020",
+            "default_profile_image": false,
+            "description": "Former Minister of Foreign Affairs of the Federal Democratic Republic of Ethiopia",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mfa.gov.et",
+                            "expanded_url": "http://www.mfa.gov.et",
+                            "url": "https://t.co/fHwy5UcFuc",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 89,
+            "followers_count": 153768,
+            "friends_count": 34,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 170,
+            "location": "Addis Ababa,Ethiopia",
+            "media_count": 0,
+            "name": "Gedu Andargachew",
+            "normal_followers_count": 153768,
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232716413284110347/1ajCm67S_normal.jpg",
+            "screen_name": "GeduAndargachew",
+            "statuses_count": 5,
+            "translator_type": "none",
+            "url": "https://t.co/fHwy5UcFuc",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": [],
+            "is_blue_verified": false
+        },
+        "metadata": {
+            "request_url": "https://x.com/GeduAndargachew",
+            "request_query": null
+        }
+    },
+    {
+        "bookmark_count": 0,
+        "bookmarked": false,
+        "created_at": "Sat Jun 12 07:10:30 +0000 2021",
+        "conversation_id_str": "1403610645577322496",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1297951875711610880",
+                    "name": "Horn Africa Insight",
+                    "screen_name": "_HornAfrica",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "RT @_HornAfrica: The Comprehensive Framework Agreement (CFA)  codifies a vision of equitable and reasonable utilization of the Nile waters…",
+        "is_quote_status": false,
+        "lang": "en",
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 99,
+        "retweeted": false,
+        "user_id_str": "1232716133989482498",
+        "id_str": "1403610645577322496",
+        "retweeted_status_result": {
+            "result": {
+                "__typename": "Tweet",
+                "rest_id": "1403483269153361925",
+                "core": {
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMjk3OTUxODc1NzExNjEwODgw",
+                            "rest_id": "1297951875711610880",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                                "can_dm": false,
+                                "can_media_tag": false,
+                                "created_at": "Mon Aug 24 17:40:24 +0000 2020",
+                                "default_profile": true,
+                                "default_profile_image": false,
+                                "description": "Horn Africa Insight is a web outlet  researching Ethiopia and the greater impact on the Horn of Africa.",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "hornafricainsight.org",
+                                                "expanded_url": "http://www.hornafricainsight.org",
+                                                "url": "https://t.co/3g0VkB2xuj",
+                                                "indices": [
+                                                    0,
+                                                    23
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 0,
+                                "followers_count": 3854,
+                                "friends_count": 0,
+                                "has_custom_timelines": false,
+                                "is_translator": false,
+                                "listed_count": 0,
+                                "location": "",
+                                "media_count": 29,
+                                "name": "Horn Africa Insight",
+                                "normal_followers_count": 3854,
+                                "pinned_tweet_ids_str": [],
+                                "possibly_sensitive": false,
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1356329501685383169/JARt-mIM_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "_HornAfrica",
+                                "statuses_count": 443,
+                                "translator_type": "none",
+                                "url": "https://t.co/3g0VkB2xuj",
+                                "verified": false,
+                                "want_retweets": false,
+                                "withheld_in_countries": []
+                            },
+                            "professional": {
+                                "rest_id": "1456094920704413701",
+                                "professional_type": "Business",
+                                "category": []
+                            },
+                            "tipjar_settings": {}
+                        }
+                    }
+                },
+                "unmention_data": {},
+                "edit_control": {
+                    "edit_tweet_ids": [
+                        "1403483269153361925"
+                    ],
+                    "editable_until_msecs": "1623453261481",
+                    "is_edit_eligible": true,
+                    "edits_remaining": "5"
+                },
+                "is_translatable": false,
+                "views": {
+                    "state": "Enabled"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "legacy": {
+                    "bookmark_count": 2,
+                    "bookmarked": false,
+                    "created_at": "Fri Jun 11 22:44:21 +0000 2021",
+                    "conversation_id_str": "1403483269153361925",
+                    "display_text_range": [
+                        0,
+                        242
+                    ],
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "timestamps": [],
+                        "urls": [
+                            {
+                                "display_url": "bit.ly/3cAGfLG",
+                                "expanded_url": "https://bit.ly/3cAGfLG",
+                                "url": "https://t.co/GlOvIjbWbS",
+                                "indices": [
+                                    219,
+                                    242
+                                ]
+                            }
+                        ],
+                        "user_mentions": []
+                    },
+                    "favorite_count": 149,
+                    "favorited": false,
+                    "full_text": "The Comprehensive Framework Agreement (CFA)  codifies a vision of equitable and reasonable utilization of the Nile waters without causing significant harm among the riparian countries , writes Stephen Max Donkor(Ph.D).\nhttps://t.co/GlOvIjbWbS",
+                    "is_quote_status": false,
+                    "lang": "en",
+                    "possibly_sensitive": false,
+                    "possibly_sensitive_editable": true,
+                    "quote_count": 4,
+                    "reply_count": 28,
+                    "retweet_count": 99,
+                    "retweeted": false,
+                    "user_id_str": "1297951875711610880",
+                    "id_str": "1403483269153361925"
+                }
+            }
+        },
+        "url": "https://twitter.com/GeduAndargachew/status/1403610645577322496",
+        "views_count": 0,
+        "truncated_full_text": null,
+        "user": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Wed Feb 26 17:17:09 +0000 2020",
+            "default_profile_image": false,
+            "description": "Former Minister of Foreign Affairs of the Federal Democratic Republic of Ethiopia",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mfa.gov.et",
+                            "expanded_url": "http://www.mfa.gov.et",
+                            "url": "https://t.co/fHwy5UcFuc",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 89,
+            "followers_count": 153768,
+            "friends_count": 34,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 170,
+            "location": "Addis Ababa,Ethiopia",
+            "media_count": 0,
+            "name": "Gedu Andargachew",
+            "normal_followers_count": 153768,
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232716413284110347/1ajCm67S_normal.jpg",
+            "screen_name": "GeduAndargachew",
+            "statuses_count": 5,
+            "translator_type": "none",
+            "url": "https://t.co/fHwy5UcFuc",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": [],
+            "is_blue_verified": false
+        },
+        "metadata": {
+            "request_url": "https://x.com/GeduAndargachew",
+            "request_query": null
+        }
+    },
+    {
+        "bookmark_count": 0,
+        "bookmarked": false,
+        "created_at": "Wed Apr 07 15:24:17 +0000 2021",
+        "conversation_id_str": "1379817311683674112",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        69,
+                        74
+                    ],
+                    "text": "GERD"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.x.com/ttuozzjmhj",
+                    "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                    "id_str": "1379540858412924929",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_key": "3_1379540858412924929",
+                    "media_url_https": "https://pbs.twimg.com/media/EyUdGgLXAAEP5I7.jpg",
+                    "source_status_id_str": "1379541279680434179",
+                    "source_user_id_str": "1221534859",
+                    "type": "photo",
+                    "url": "https://t.co/ttUOZzjMhj",
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "features": {
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1549,
+                            "w": 1242,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 962,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 545,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1549,
+                        "width": 1242,
+                        "focus_rects": [
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 696
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1242
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1416
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 775,
+                                "h": 1549
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1549
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "3_1379540858412924929"
+                        }
+                    }
+                },
+                {
+                    "display_url": "pic.x.com/ttuozzjmhj",
+                    "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                    "id_str": "1379540880982482951",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_key": "3_1379540880982482951",
+                    "media_url_https": "https://pbs.twimg.com/media/EyUdH0QXIAcMELs.jpg",
+                    "source_status_id_str": "1379541279680434179",
+                    "source_user_id_str": "1221534859",
+                    "type": "photo",
+                    "url": "https://t.co/ttUOZzjMhj",
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "features": {
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1535,
+                            "w": 1242,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 971,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 550,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1535,
+                        "width": 1242,
+                        "focus_rects": [
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 696
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1242
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1416
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 768,
+                                "h": 1535
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1535
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "3_1379540880982482951"
+                        }
+                    }
+                }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "1221534859",
+                    "name": "The Ministry of Foreign Affairs of #Ethiopia 🇪🇹",
+                    "screen_name": "mfaethiopia",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                },
+                {
+                    "id_str": "1221534859",
+                    "name": "The Ministry of Foreign Affairs of #Ethiopia 🇪🇹",
+                    "screen_name": "mfaethiopia",
+                    "indices": [
+                        96,
+                        108
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ttUOZzjMhj",
+                    "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                    "id_str": "1379540858412924929",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_key": "3_1379540858412924929",
+                    "media_url_https": "https://pbs.twimg.com/media/EyUdGgLXAAEP5I7.jpg",
+                    "source_status_id_str": "1379541279680434179",
+                    "source_user_id_str": "1221534859",
+                    "type": "photo",
+                    "url": "https://t.co/ttUOZzjMhj",
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "features": {
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1549,
+                            "w": 1242,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 962,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 545,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1549,
+                        "width": 1242,
+                        "focus_rects": [
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 696
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1242
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1416
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 775,
+                                "h": 1549
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1549
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "3_1379540858412924929"
+                        }
+                    }
+                },
+                {
+                    "display_url": "pic.twitter.com/ttUOZzjMhj",
+                    "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                    "id_str": "1379540880982482951",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "media_key": "3_1379540880982482951",
+                    "media_url_https": "https://pbs.twimg.com/media/EyUdH0QXIAcMELs.jpg",
+                    "source_status_id_str": "1379541279680434179",
+                    "source_user_id_str": "1221534859",
+                    "type": "photo",
+                    "url": "https://t.co/ttUOZzjMhj",
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "features": {
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        }
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 1535,
+                            "w": 1242,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "w": 971,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 680,
+                            "w": 550,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 1535,
+                        "width": 1242,
+                        "focus_rects": [
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 696
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1242
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1416
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 768,
+                                "h": 1535
+                            },
+                            {
+                                "x": 0,
+                                "y": 0,
+                                "w": 1242,
+                                "h": 1535
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "3_1379540880982482951"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "RT @mfaethiopia: Press Release on the Trilateral Negotiations on the #GERD. 06 April 2021, DRC. @mfaethiopia https://t.co/ttUOZzjMhj",
+        "is_quote_status": false,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 250,
+        "retweeted": false,
+        "user_id_str": "1232716133989482498",
+        "id_str": "1379817311683674112",
+        "retweeted_status_result": {
+            "result": {
+                "__typename": "Tweet",
+                "rest_id": "1379541279680434179",
+                "core": {
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMjIxNTM0ODU5",
+                            "rest_id": "1221534859",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Square",
+                            "legacy": {
+                                "can_dm": false,
+                                "can_media_tag": false,
+                                "created_at": "Tue Feb 26 12:37:09 +0000 2013",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "This is the official Twitter handle of the Ministry of Foreign Affairs of Ethiopia.\n\n𝑨 𝑾𝒆𝒆𝒌 𝒊𝒏 𝒕𝒉𝒆 𝑯𝒐𝒓𝒏: https://t.co/JLIdFVXv8N",
+                                "entities": {
+                                    "description": {
+                                        "urls": [
+                                            {
+                                                "display_url": "awith.mfa.gov.et",
+                                                "expanded_url": "http://awith.mfa.gov.et",
+                                                "url": "https://t.co/JLIdFVXv8N",
+                                                "indices": [
+                                                    105,
+                                                    128
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "mfa.gov.et",
+                                                "expanded_url": "http://www.mfa.gov.et",
+                                                "url": "https://t.co/yD5CSu78Fc",
+                                                "indices": [
+                                                    0,
+                                                    23
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 403,
+                                "followers_count": 513319,
+                                "friends_count": 1252,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 941,
+                                "location": "Addis Ababa, Ethiopia🇪🇹",
+                                "media_count": 8315,
+                                "name": "The Ministry of Foreign Affairs of #Ethiopia 🇪🇹",
+                                "normal_followers_count": 513319,
+                                "pinned_tweet_ids_str": [
+                                    "1809195463624610171"
+                                ],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221534859/1704979759",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1745437381052768256/_X_CYVKB_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "mfaethiopia",
+                                "statuses_count": 26133,
+                                "translator_type": "none",
+                                "url": "https://t.co/yD5CSu78Fc",
+                                "verified": false,
+                                "verified_type": "Government",
+                                "want_retweets": false,
+                                "withheld_in_countries": []
+                            },
+                            "professional": {
+                                "rest_id": "1637702848707264512",
+                                "professional_type": "Business",
+                                "category": [
+                                    {
+                                        "id": 695,
+                                        "name": "Public & Social Services",
+                                        "icon_name": "IconBriefcaseStroke"
+                                    }
+                                ]
+                            },
+                            "tipjar_settings": {}
+                        }
+                    }
+                },
+                "unmention_data": {},
+                "edit_control": {
+                    "edit_tweet_ids": [
+                        "1379541279680434179"
+                    ],
+                    "editable_until_msecs": "1617745046370",
+                    "is_edit_eligible": true,
+                    "edits_remaining": "5"
+                },
+                "is_translatable": false,
+                "views": {
+                    "state": "Enabled"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "legacy": {
+                    "bookmark_count": 6,
+                    "bookmarked": false,
+                    "created_at": "Tue Apr 06 21:07:26 +0000 2021",
+                    "conversation_id_str": "1379541279680434179",
+                    "display_text_range": [
+                        0,
+                        91
+                    ],
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "indices": [
+                                    52,
+                                    57
+                                ],
+                                "text": "GERD"
+                            }
+                        ],
+                        "media": [
+                            {
+                                "display_url": "pic.x.com/ttuozzjmhj",
+                                "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                                "id_str": "1379540858412924929",
+                                "indices": [
+                                    92,
+                                    115
+                                ],
+                                "media_key": "3_1379540858412924929",
+                                "media_url_https": "https://pbs.twimg.com/media/EyUdGgLXAAEP5I7.jpg",
+                                "type": "photo",
+                                "url": "https://t.co/ttUOZzjMhj",
+                                "ext_media_availability": {
+                                    "status": "Available"
+                                },
+                                "features": {
+                                    "large": {
+                                        "faces": []
+                                    },
+                                    "medium": {
+                                        "faces": []
+                                    },
+                                    "small": {
+                                        "faces": []
+                                    },
+                                    "orig": {
+                                        "faces": []
+                                    }
+                                },
+                                "sizes": {
+                                    "large": {
+                                        "h": 1549,
+                                        "w": 1242,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "h": 1200,
+                                        "w": 962,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "h": 680,
+                                        "w": 545,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                    }
+                                },
+                                "original_info": {
+                                    "height": 1549,
+                                    "width": 1242,
+                                    "focus_rects": [
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 696
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1242
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1416
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 775,
+                                            "h": 1549
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1549
+                                        }
+                                    ]
+                                },
+                                "media_results": {
+                                    "result": {
+                                        "media_key": "3_1379540858412924929"
+                                    }
+                                }
+                            },
+                            {
+                                "display_url": "pic.x.com/ttuozzjmhj",
+                                "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                                "id_str": "1379540880982482951",
+                                "indices": [
+                                    92,
+                                    115
+                                ],
+                                "media_key": "3_1379540880982482951",
+                                "media_url_https": "https://pbs.twimg.com/media/EyUdH0QXIAcMELs.jpg",
+                                "type": "photo",
+                                "url": "https://t.co/ttUOZzjMhj",
+                                "ext_media_availability": {
+                                    "status": "Available"
+                                },
+                                "features": {
+                                    "large": {
+                                        "faces": []
+                                    },
+                                    "medium": {
+                                        "faces": []
+                                    },
+                                    "small": {
+                                        "faces": []
+                                    },
+                                    "orig": {
+                                        "faces": []
+                                    }
+                                },
+                                "sizes": {
+                                    "large": {
+                                        "h": 1535,
+                                        "w": 1242,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "h": 1200,
+                                        "w": 971,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "h": 680,
+                                        "w": 550,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                    }
+                                },
+                                "original_info": {
+                                    "height": 1535,
+                                    "width": 1242,
+                                    "focus_rects": [
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 696
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1242
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1416
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 768,
+                                            "h": 1535
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1535
+                                        }
+                                    ]
+                                },
+                                "media_results": {
+                                    "result": {
+                                        "media_key": "3_1379540880982482951"
+                                    }
+                                }
+                            }
+                        ],
+                        "symbols": [],
+                        "timestamps": [],
+                        "urls": [],
+                        "user_mentions": [
+                            {
+                                "id_str": "1221534859",
+                                "name": "The Ministry of Foreign Affairs of #Ethiopia 🇪🇹",
+                                "screen_name": "mfaethiopia",
+                                "indices": [
+                                    79,
+                                    91
+                                ]
+                            }
+                        ]
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "display_url": "pic.twitter.com/ttUOZzjMhj",
+                                "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                                "id_str": "1379540858412924929",
+                                "indices": [
+                                    92,
+                                    115
+                                ],
+                                "media_key": "3_1379540858412924929",
+                                "media_url_https": "https://pbs.twimg.com/media/EyUdGgLXAAEP5I7.jpg",
+                                "type": "photo",
+                                "url": "https://t.co/ttUOZzjMhj",
+                                "ext_media_availability": {
+                                    "status": "Available"
+                                },
+                                "features": {
+                                    "large": {
+                                        "faces": []
+                                    },
+                                    "medium": {
+                                        "faces": []
+                                    },
+                                    "small": {
+                                        "faces": []
+                                    },
+                                    "orig": {
+                                        "faces": []
+                                    }
+                                },
+                                "sizes": {
+                                    "large": {
+                                        "h": 1549,
+                                        "w": 1242,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "h": 1200,
+                                        "w": 962,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "h": 680,
+                                        "w": 545,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                    }
+                                },
+                                "original_info": {
+                                    "height": 1549,
+                                    "width": 1242,
+                                    "focus_rects": [
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 696
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1242
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1416
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 775,
+                                            "h": 1549
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1549
+                                        }
+                                    ]
+                                },
+                                "media_results": {
+                                    "result": {
+                                        "media_key": "3_1379540858412924929"
+                                    }
+                                }
+                            },
+                            {
+                                "display_url": "pic.twitter.com/ttUOZzjMhj",
+                                "expanded_url": "https://twitter.com/mfaethiopia/status/1379541279680434179/photo/1",
+                                "id_str": "1379540880982482951",
+                                "indices": [
+                                    92,
+                                    115
+                                ],
+                                "media_key": "3_1379540880982482951",
+                                "media_url_https": "https://pbs.twimg.com/media/EyUdH0QXIAcMELs.jpg",
+                                "type": "photo",
+                                "url": "https://t.co/ttUOZzjMhj",
+                                "ext_media_availability": {
+                                    "status": "Available"
+                                },
+                                "features": {
+                                    "large": {
+                                        "faces": []
+                                    },
+                                    "medium": {
+                                        "faces": []
+                                    },
+                                    "small": {
+                                        "faces": []
+                                    },
+                                    "orig": {
+                                        "faces": []
+                                    }
+                                },
+                                "sizes": {
+                                    "large": {
+                                        "h": 1535,
+                                        "w": 1242,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "h": 1200,
+                                        "w": 971,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "h": 680,
+                                        "w": 550,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                    }
+                                },
+                                "original_info": {
+                                    "height": 1535,
+                                    "width": 1242,
+                                    "focus_rects": [
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 696
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1242
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1416
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 768,
+                                            "h": 1535
+                                        },
+                                        {
+                                            "x": 0,
+                                            "y": 0,
+                                            "w": 1242,
+                                            "h": 1535
+                                        }
+                                    ]
+                                },
+                                "media_results": {
+                                    "result": {
+                                        "media_key": "3_1379540880982482951"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "favorite_count": 463,
+                    "favorited": false,
+                    "full_text": "Press Release on the Trilateral Negotiations on the #GERD. 06 April 2021, DRC. @mfaethiopia https://t.co/ttUOZzjMhj",
+                    "is_quote_status": false,
+                    "lang": "en",
+                    "possibly_sensitive": false,
+                    "possibly_sensitive_editable": true,
+                    "quote_count": 42,
+                    "reply_count": 103,
+                    "retweet_count": 250,
+                    "retweeted": false,
+                    "user_id_str": "1221534859",
+                    "id_str": "1379541279680434179"
+                }
+            }
+        },
+        "url": "https://twitter.com/GeduAndargachew/status/1379817311683674112",
+        "views_count": 0,
+        "truncated_full_text": null,
+        "user": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Wed Feb 26 17:17:09 +0000 2020",
+            "default_profile_image": false,
+            "description": "Former Minister of Foreign Affairs of the Federal Democratic Republic of Ethiopia",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mfa.gov.et",
+                            "expanded_url": "http://www.mfa.gov.et",
+                            "url": "https://t.co/fHwy5UcFuc",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 89,
+            "followers_count": 153768,
+            "friends_count": 34,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 170,
+            "location": "Addis Ababa,Ethiopia",
+            "media_count": 0,
+            "name": "Gedu Andargachew",
+            "normal_followers_count": 153768,
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232716413284110347/1ajCm67S_normal.jpg",
+            "screen_name": "GeduAndargachew",
+            "statuses_count": 5,
+            "translator_type": "none",
+            "url": "https://t.co/fHwy5UcFuc",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": [],
+            "is_blue_verified": false
+        },
+        "metadata": {
+            "request_url": "https://x.com/GeduAndargachew",
+            "request_query": null
+        }
+    },
+    {
+        "bookmark_count": 0,
+        "bookmarked": false,
+        "created_at": "Fri Apr 10 17:10:35 +0000 2020",
+        "conversation_id_str": "1248659656794411013",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.x.com/bvpgswespt",
+                    "expanded_url": "https://twitter.com/TeamTrump/status/1248654948130336774/video/1",
+                    "id_str": "1248653878989651971",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_key": "13_1248653878989651971",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1248653878989651971/img/deD-5Tqqpe_rkvT6.jpg",
+                    "source_status_id_str": "1248654948130336774",
+                    "source_user_id_str": "729676086632656900",
+                    "type": "video",
+                    "url": "https://t.co/BVPGSWESpt",
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false,
+                        "source_user": {
+                            "user_results": {
+                                "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjo3Mjk2NzYwODY2MzI2NTY5MDA=",
+                                    "rest_id": "729676086632656900",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                        "can_dm": true,
+                                        "can_media_tag": true,
+                                        "created_at": "Mon May 09 14:15:10 +0000 2016",
+                                        "default_profile": false,
+                                        "default_profile_image": false,
+                                        "description": "The official Twitter account for the Trump Campaign. Together, we will MAKE AMERICA GREAT AGAIN! 🇺🇸",
+                                        "entities": {
+                                            "description": {
+                                                "urls": []
+                                            },
+                                            "url": {
+                                                "urls": [
+                                                    {
+                                                        "display_url": "DonaldJTrump.com",
+                                                        "expanded_url": "http://www.DonaldJTrump.com",
+                                                        "url": "https://t.co/40J9YUoxYJ",
+                                                        "indices": [
+                                                            0,
+                                                            23
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "fast_followers_count": 0,
+                                        "favourites_count": 8669,
+                                        "followers_count": 2235287,
+                                        "friends_count": 193,
+                                        "has_custom_timelines": true,
+                                        "is_translator": false,
+                                        "listed_count": 4274,
+                                        "location": "USA",
+                                        "media_count": 10995,
+                                        "name": "Team Trump (Text TRUMP to 88022)",
+                                        "normal_followers_count": 2235287,
+                                        "pinned_tweet_ids_str": [
+                                            "1796293057412813156"
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1675368116",
+                                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+                                        "profile_interstitial_type": "",
+                                        "screen_name": "TeamTrump",
+                                        "statuses_count": 42295,
+                                        "translator_type": "none",
+                                        "url": "https://t.co/40J9YUoxYJ",
+                                        "verified": false,
+                                        "want_retweets": false,
+                                        "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                        "rest_id": "1646965451497381888",
+                                        "professional_type": "Creator",
+                                        "category": [
+                                            {
+                                                "id": 579,
+                                                "name": "Media & News",
+                                                "icon_name": "IconBriefcaseStroke"
+                                            }
+                                        ]
+                                    },
+                                    "tipjar_settings": {}
+                                }
+                            }
+                        }
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 720,
+                            "w": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 675,
+                            "w": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 383,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 720,
+                        "width": 1280,
+                        "focus_rects": []
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 174575,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1248653878989651971/pl/M7W0KCFTVX03gDEf.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/480x270/-TuWK8p_mU0oLe-T.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/640x360/1a_6A3iXMKJuqjdh.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/1280x720/MslZ-EwOT5_wDHg5.mp4?tag=13"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1248653878989651971"
+                        }
+                    }
+                }
+            ],
+            "symbols": [],
+            "timestamps": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id_str": "729676086632656900",
+                    "name": "Team Trump (Text TRUMP to 88022)",
+                    "screen_name": "TeamTrump",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "id_str": "25073877",
+                    "name": "Donald J. Trump",
+                    "screen_name": "realDonaldTrump",
+                    "indices": [
+                        32,
+                        48
+                    ]
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/BVPGSWESpt",
+                    "expanded_url": "https://twitter.com/TeamTrump/status/1248654948130336774/video/1",
+                    "id_str": "1248653878989651971",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_key": "13_1248653878989651971",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1248653878989651971/img/deD-5Tqqpe_rkvT6.jpg",
+                    "source_status_id_str": "1248654948130336774",
+                    "source_user_id_str": "729676086632656900",
+                    "type": "video",
+                    "url": "https://t.co/BVPGSWESpt",
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false,
+                        "source_user": {
+                            "user_results": {
+                                "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjo3Mjk2NzYwODY2MzI2NTY5MDA=",
+                                    "rest_id": "729676086632656900",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                        "can_dm": true,
+                                        "can_media_tag": true,
+                                        "created_at": "Mon May 09 14:15:10 +0000 2016",
+                                        "default_profile": false,
+                                        "default_profile_image": false,
+                                        "description": "The official Twitter account for the Trump Campaign. Together, we will MAKE AMERICA GREAT AGAIN! 🇺🇸",
+                                        "entities": {
+                                            "description": {
+                                                "urls": []
+                                            },
+                                            "url": {
+                                                "urls": [
+                                                    {
+                                                        "display_url": "DonaldJTrump.com",
+                                                        "expanded_url": "http://www.DonaldJTrump.com",
+                                                        "url": "https://t.co/40J9YUoxYJ",
+                                                        "indices": [
+                                                            0,
+                                                            23
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        "fast_followers_count": 0,
+                                        "favourites_count": 8669,
+                                        "followers_count": 2235287,
+                                        "friends_count": 193,
+                                        "has_custom_timelines": true,
+                                        "is_translator": false,
+                                        "listed_count": 4274,
+                                        "location": "USA",
+                                        "media_count": 10995,
+                                        "name": "Team Trump (Text TRUMP to 88022)",
+                                        "normal_followers_count": 2235287,
+                                        "pinned_tweet_ids_str": [
+                                            "1796293057412813156"
+                                        ],
+                                        "possibly_sensitive": false,
+                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1675368116",
+                                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+                                        "profile_interstitial_type": "",
+                                        "screen_name": "TeamTrump",
+                                        "statuses_count": 42295,
+                                        "translator_type": "none",
+                                        "url": "https://t.co/40J9YUoxYJ",
+                                        "verified": false,
+                                        "want_retweets": false,
+                                        "withheld_in_countries": []
+                                    },
+                                    "professional": {
+                                        "rest_id": "1646965451497381888",
+                                        "professional_type": "Creator",
+                                        "category": [
+                                            {
+                                                "id": 579,
+                                                "name": "Media & News",
+                                                "icon_name": "IconBriefcaseStroke"
+                                            }
+                                        ]
+                                    },
+                                    "tipjar_settings": {}
+                                }
+                            }
+                        }
+                    },
+                    "ext_media_availability": {
+                        "status": "Available"
+                    },
+                    "sizes": {
+                        "large": {
+                            "h": 720,
+                            "w": 1280,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "h": 675,
+                            "w": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "h": 383,
+                            "w": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "w": 150,
+                            "resize": "crop"
+                        }
+                    },
+                    "original_info": {
+                        "height": 720,
+                        "width": 1280,
+                        "focus_rects": []
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 174575,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1248653878989651971/pl/M7W0KCFTVX03gDEf.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/480x270/-TuWK8p_mU0oLe-T.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/640x360/1a_6A3iXMKJuqjdh.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/1280x720/MslZ-EwOT5_wDHg5.mp4?tag=13"
+                            }
+                        ]
+                    },
+                    "media_results": {
+                        "result": {
+                            "media_key": "13_1248653878989651971"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "full_text": "RT @TeamTrump: WATCH: President @realDonaldTrump delivers Easter blessing remarks from the Oval Office https://t.co/BVPGSWESpt",
+        "is_quote_status": false,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "possibly_sensitive_editable": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1355,
+        "retweeted": false,
+        "user_id_str": "1232716133989482498",
+        "id_str": "1248659656794411013",
+        "retweeted_status_result": {
+            "result": {
+                "__typename": "Tweet",
+                "rest_id": "1248654948130336774",
+                "core": {
+                    "user_results": {
+                        "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo3Mjk2NzYwODY2MzI2NTY5MDA=",
+                            "rest_id": "729676086632656900",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                                "can_dm": true,
+                                "can_media_tag": true,
+                                "created_at": "Mon May 09 14:15:10 +0000 2016",
+                                "default_profile": false,
+                                "default_profile_image": false,
+                                "description": "The official Twitter account for the Trump Campaign. Together, we will MAKE AMERICA GREAT AGAIN! 🇺🇸",
+                                "entities": {
+                                    "description": {
+                                        "urls": []
+                                    },
+                                    "url": {
+                                        "urls": [
+                                            {
+                                                "display_url": "DonaldJTrump.com",
+                                                "expanded_url": "http://www.DonaldJTrump.com",
+                                                "url": "https://t.co/40J9YUoxYJ",
+                                                "indices": [
+                                                    0,
+                                                    23
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                },
+                                "fast_followers_count": 0,
+                                "favourites_count": 8669,
+                                "followers_count": 2235287,
+                                "friends_count": 193,
+                                "has_custom_timelines": true,
+                                "is_translator": false,
+                                "listed_count": 4274,
+                                "location": "USA",
+                                "media_count": 10995,
+                                "name": "Team Trump (Text TRUMP to 88022)",
+                                "normal_followers_count": 2235287,
+                                "pinned_tweet_ids_str": [
+                                    "1796293057412813156"
+                                ],
+                                "possibly_sensitive": false,
+                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1675368116",
+                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+                                "profile_interstitial_type": "",
+                                "screen_name": "TeamTrump",
+                                "statuses_count": 42295,
+                                "translator_type": "none",
+                                "url": "https://t.co/40J9YUoxYJ",
+                                "verified": false,
+                                "want_retweets": false,
+                                "withheld_in_countries": []
+                            },
+                            "professional": {
+                                "rest_id": "1646965451497381888",
+                                "professional_type": "Creator",
+                                "category": [
+                                    {
+                                        "id": 579,
+                                        "name": "Media & News",
+                                        "icon_name": "IconBriefcaseStroke"
+                                    }
+                                ]
+                            },
+                            "tipjar_settings": {}
+                        }
+                    }
+                },
+                "unmention_data": {},
+                "edit_control": {
+                    "edit_tweet_ids": [
+                        "1248654948130336774"
+                    ],
+                    "editable_until_msecs": "1586539313178",
+                    "is_edit_eligible": true,
+                    "edits_remaining": "5"
+                },
+                "is_translatable": false,
+                "views": {
+                    "state": "Enabled"
+                },
+                "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                "legacy": {
+                    "bookmark_count": 32,
+                    "bookmarked": false,
+                    "created_at": "Fri Apr 10 16:51:53 +0000 2020",
+                    "conversation_id_str": "1248654948130336774",
+                    "display_text_range": [
+                        0,
+                        87
+                    ],
+                    "entities": {
+                        "hashtags": [],
+                        "media": [
+                            {
+                                "display_url": "pic.x.com/bvpgswespt",
+                                "expanded_url": "https://twitter.com/TeamTrump/status/1248654948130336774/video/1",
+                                "id_str": "1248653878989651971",
+                                "indices": [
+                                    88,
+                                    111
+                                ],
+                                "media_key": "13_1248653878989651971",
+                                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1248653878989651971/img/deD-5Tqqpe_rkvT6.jpg",
+                                "type": "video",
+                                "url": "https://t.co/BVPGSWESpt",
+                                "additional_media_info": {
+                                    "title": "",
+                                    "description": "",
+                                    "embeddable": true,
+                                    "monetizable": false
+                                },
+                                "ext_media_availability": {
+                                    "status": "Available"
+                                },
+                                "sizes": {
+                                    "large": {
+                                        "h": 720,
+                                        "w": 1280,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "h": 675,
+                                        "w": 1200,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "h": 383,
+                                        "w": 680,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                    }
+                                },
+                                "original_info": {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "focus_rects": []
+                                },
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        16,
+                                        9
+                                    ],
+                                    "duration_millis": 174575,
+                                    "variants": [
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/amplify_video/1248653878989651971/pl/M7W0KCFTVX03gDEf.m3u8?tag=13"
+                                        },
+                                        {
+                                            "bitrate": 288000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/480x270/-TuWK8p_mU0oLe-T.mp4?tag=13"
+                                        },
+                                        {
+                                            "bitrate": 832000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/640x360/1a_6A3iXMKJuqjdh.mp4?tag=13"
+                                        },
+                                        {
+                                            "bitrate": 2176000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/1280x720/MslZ-EwOT5_wDHg5.mp4?tag=13"
+                                        }
+                                    ]
+                                },
+                                "media_results": {
+                                    "result": {
+                                        "media_key": "13_1248653878989651971"
+                                    }
+                                }
+                            }
+                        ],
+                        "symbols": [],
+                        "timestamps": [],
+                        "urls": [],
+                        "user_mentions": [
+                            {
+                                "id_str": "25073877",
+                                "name": "Donald J. Trump",
+                                "screen_name": "realDonaldTrump",
+                                "indices": [
+                                    17,
+                                    33
+                                ]
+                            }
+                        ]
+                    },
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "display_url": "pic.twitter.com/BVPGSWESpt",
+                                "expanded_url": "https://twitter.com/TeamTrump/status/1248654948130336774/video/1",
+                                "id_str": "1248653878989651971",
+                                "indices": [
+                                    88,
+                                    111
+                                ],
+                                "media_key": "13_1248653878989651971",
+                                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1248653878989651971/img/deD-5Tqqpe_rkvT6.jpg",
+                                "type": "video",
+                                "url": "https://t.co/BVPGSWESpt",
+                                "additional_media_info": {
+                                    "title": "",
+                                    "description": "",
+                                    "embeddable": true,
+                                    "monetizable": false
+                                },
+                                "ext_media_availability": {
+                                    "status": "Available"
+                                },
+                                "sizes": {
+                                    "large": {
+                                        "h": 720,
+                                        "w": 1280,
+                                        "resize": "fit"
+                                    },
+                                    "medium": {
+                                        "h": 675,
+                                        "w": 1200,
+                                        "resize": "fit"
+                                    },
+                                    "small": {
+                                        "h": 383,
+                                        "w": 680,
+                                        "resize": "fit"
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "w": 150,
+                                        "resize": "crop"
+                                    }
+                                },
+                                "original_info": {
+                                    "height": 720,
+                                    "width": 1280,
+                                    "focus_rects": []
+                                },
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        16,
+                                        9
+                                    ],
+                                    "duration_millis": 174575,
+                                    "variants": [
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/amplify_video/1248653878989651971/pl/M7W0KCFTVX03gDEf.m3u8?tag=13"
+                                        },
+                                        {
+                                            "bitrate": 288000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/480x270/-TuWK8p_mU0oLe-T.mp4?tag=13"
+                                        },
+                                        {
+                                            "bitrate": 832000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/640x360/1a_6A3iXMKJuqjdh.mp4?tag=13"
+                                        },
+                                        {
+                                            "bitrate": 2176000,
+                                            "content_type": "video/mp4",
+                                            "url": "https://video.twimg.com/amplify_video/1248653878989651971/vid/1280x720/MslZ-EwOT5_wDHg5.mp4?tag=13"
+                                        }
+                                    ]
+                                },
+                                "media_results": {
+                                    "result": {
+                                        "media_key": "13_1248653878989651971"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "favorite_count": 6260,
+                    "favorited": false,
+                    "full_text": "WATCH: President @realDonaldTrump delivers Easter blessing remarks from the Oval Office https://t.co/BVPGSWESpt",
+                    "is_quote_status": false,
+                    "lang": "en",
+                    "possibly_sensitive": false,
+                    "possibly_sensitive_editable": true,
+                    "quote_count": 143,
+                    "reply_count": 259,
+                    "retweet_count": 1355,
+                    "retweeted": false,
+                    "user_id_str": "729676086632656900",
+                    "id_str": "1248654948130336774"
+                }
+            }
+        },
+        "url": "https://twitter.com/GeduAndargachew/status/1248659656794411013",
+        "views_count": 0,
+        "truncated_full_text": null,
+        "user": {
+            "can_dm": false,
+            "can_media_tag": true,
+            "created_at": "Wed Feb 26 17:17:09 +0000 2020",
+            "default_profile_image": false,
+            "description": "Former Minister of Foreign Affairs of the Federal Democratic Republic of Ethiopia",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "mfa.gov.et",
+                            "expanded_url": "http://www.mfa.gov.et",
+                            "url": "https://t.co/fHwy5UcFuc",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                }
+            },
+            "fast_followers_count": 0,
+            "favourites_count": 89,
+            "followers_count": 153768,
+            "friends_count": 34,
+            "has_custom_timelines": false,
+            "is_translator": false,
+            "listed_count": 170,
+            "location": "Addis Ababa,Ethiopia",
+            "media_count": 0,
+            "name": "Gedu Andargachew",
+            "normal_followers_count": 153768,
+            "possibly_sensitive": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232716413284110347/1ajCm67S_normal.jpg",
+            "screen_name": "GeduAndargachew",
+            "statuses_count": 5,
+            "translator_type": "none",
+            "url": "https://t.co/fHwy5UcFuc",
+            "verified": false,
+            "want_retweets": false,
+            "withheld_in_countries": [],
+            "is_blue_verified": false
+        },
+        "metadata": {
+            "request_url": "https://x.com/GeduAndargachew",
+            "request_query": null
+        }
+    }
+]
