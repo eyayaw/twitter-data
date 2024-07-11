@@ -3,24 +3,9 @@ import os
 from datetime import datetime, date as Date
 from apify_client import ApifyClient
 from glob import glob
+from utils import validate_date, get_handles
 
 # https://docs.apify.com/platform/actors/running
-
-
-def validate_date(date, format="%Y-%m-%d"):
-    # Convert strings to datetime objects if input dates are strings
-    try:
-        if isinstance(date, str):
-            date = datetime.strptime(date, format).date()
-        elif isinstance(date, datetime):
-            date = date.date()
-        elif isinstance(date, Date):
-            pass
-        else:
-            raise ValueError("Input must be a string or datetime object.")
-    except ValueError:
-        raise ValueError("Invalid date format. Use YYYY-MM-DD.")
-    return date
 
 
 def get_last_date(handle: str):
@@ -67,12 +52,6 @@ def fetch_dataset(apify_client, actor_run):
         apify_client.dataset(actor_run["defaultDatasetId"]).list_items().items
     )
     return dataset_items
-
-
-def get_handles(dir: str):
-    files = glob(f"{dir}/*.json")
-    handles = [os.path.basename(f).removesuffix(".json") for f in files]
-    return handles
 
 
 def main():

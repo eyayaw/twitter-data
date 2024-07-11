@@ -10,11 +10,9 @@ selected_vars = c(
 )
 
 tweets = tweets[, ..selected_vars]
-
 setnames(tweets, \(x) tolower(x) |> gsub("[ [:punct:]]+", "_", x = _))
 
 # analysis ----
-
 # hashtag counts
 hashtags = tweets[, unlist(strsplit(hashtags, ","))] |>
   table() |>

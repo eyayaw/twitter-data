@@ -1,0 +1,7 @@
+apify
+jupyter
+seaborn
+pandas
+wordcloud
+requests
+nltk
